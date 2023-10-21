@@ -1,0 +1,16 @@
+{
+    "name": "virginie/composer3package",
+    "autoload": {
+        "psr-4": {
+            "Virginie\\Composer3package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Virginie"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
+}
